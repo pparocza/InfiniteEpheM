@@ -1,0 +1,22 @@
+{
+	"PRESET_OPTIONS" : 	{
+		"SCENES" : 		{
+			"ephem" : 		{
+				"INSTRUMENTS" : 				{
+					"Key 1" : 					{
+						"ephem-Key1.adg" : 3
+					}
+,
+					"Key 2" : 					{
+						"ephem-Key2.adg" : 2
+					}
+,
+					"Pad" : 					{
+						"ephem-Pad.adg" : 1
+					}
+
+				}
+			}
+		}
+	}
+}

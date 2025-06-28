@@ -1,0 +1,95 @@
+{
+	"pattrstorage" : 	{
+		"name" : "lg_presets",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"auto_play" : [ 1.0 ],
+					"density" : [ 100.0 ],
+					"duration_probs" : [ 0, 0, 0, 1, 0, 126, 2, 0, 0, 3, 0, 0, 4, 0, 0, 5, 0, 0, 6, 0, 0, 7, 0, 0, 8, 0, 0, 9, 0, 0 ],
+					"line_count" : [ 1 ],
+					"line_length" : [ 4.0 ],
+					"line_length_max" : [ 12.0 ],
+					"line_length_min" : [ 12.0 ],
+					"line_length_quant" : [ 1.0 ],
+					"loop" : [ 1.0 ],
+					"octave_probs" : [ 0, 0, 0, 1, 0, 0, 2, 0, 0, 3, 0, 0, 4, 0, 0, 5, 0, 0, 6, 0, 126, 7, 0, 0, 8, 0, 0, 9, 0, 0, 10, 0, 0 ],
+					"position_probs" : [ 1.0, 1.0, 1.0, 0.0 ],
+					"scale_degree_probs" : [ 0, 0, 42, 1, 0, 42, 2, 0, 42, 3, 0, 0, 4, 0, 0, 5, 0, 0, 6, 0, 0, 7, 0, 0, 8, 0, 0, 9, 0, 0, 10, 0, 0, 11, 0, 0, 12, 0, 0 ],
+					"selstyle-adu" : [ 0.0 ],
+					"selstyle-adwn" : [ 1.0 ],
+					"selstyle-aud" : [ 0.0 ],
+					"selstyle-aup" : [ 0.0 ],
+					"selstyle-probs" : [ 0.0 ],
+					"selstyle-urn" : [ 1.0 ],
+					"smallest_div" : [ 1.0 ],
+					"tune_or_chrom" : [ 0.0 ],
+					"tup-den" : [ 1.0 ],
+					"tup-num" : [ 1.0 ],
+					"velocity_range" : [ 70, 84 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"auto_play" : [ 1.0 ],
+					"density" : [ 100.0 ],
+					"duration_probs" : [ 0, 0, 0, 1, 0, 0, 2, 0, 0, 3, 0, 0, 4, 0, 0, 5, 0, 0, 6, 0, 126, 7, 0, 0, 8, 0, 0, 9, 0, 0 ],
+					"line_count" : [ 1 ],
+					"line_length" : [ 4.0 ],
+					"line_length_max" : [ 12.0 ],
+					"line_length_min" : [ 12.0 ],
+					"line_length_quant" : [ 1.0 ],
+					"loop" : [ 1.0 ],
+					"octave_probs" : [ 0, 0, 0, 1, 0, 0, 2, 0, 0, 3, 0, 0, 4, 0, 0, 5, 0, 0, 6, 0, 63, 7, 0, 63, 8, 0, 0, 9, 0, 0, 10, 0, 0 ],
+					"position_probs" : [ 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 ],
+					"scale_degree_probs" : [ 0, 0, 21, 1, 0, 21, 2, 0, 21, 3, 0, 10, 4, 0, 21, 5, 0, 0, 6, 0, 21, 7, 0, 0, 8, 0, 0, 9, 0, 0, 10, 0, 0, 11, 0, 0, 12, 0, 0 ],
+					"selstyle-adu" : [ 0.0 ],
+					"selstyle-adwn" : [ 0.0 ],
+					"selstyle-aud" : [ 0.0 ],
+					"selstyle-aup" : [ 0.0 ],
+					"selstyle-probs" : [ 1.0 ],
+					"selstyle-urn" : [ 0.0 ],
+					"smallest_div" : [ 6.0 ],
+					"tune_or_chrom" : [ 0.0 ],
+					"tup-den" : [ 2.0 ],
+					"tup-num" : [ 2.0 ],
+					"velocity_range" : [ 56, 68 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"auto_play" : [ 1.0 ],
+					"density" : [ 100.0 ],
+					"duration_probs" : [ 0, 0, 0, 1, 0, 0, 2, 0, 0, 3, 0, 0, 4, 0, 63, 5, 0, 0, 6, 0, 63, 7, 0, 0, 8, 0, 0, 9, 0, 0 ],
+					"line_count" : [ 1 ],
+					"line_length" : [ 4.0 ],
+					"line_length_max" : [ 6.0 ],
+					"line_length_min" : [ 6.0 ],
+					"line_length_quant" : [ 1.0 ],
+					"loop" : [ 1.0 ],
+					"octave_probs" : [ 0, 0, 0, 1, 0, 0, 2, 0, 0, 3, 0, 0, 4, 0, 0, 5, 0, 95, 6, 0, 31, 7, 0, 0, 8, 0, 0, 9, 0, 0, 10, 0, 0 ],
+					"position_probs" : [ 1.0, 1.0, 1.0, 0.0, 1.0, 0.0, 1.0, 1.0, 1.0, 0.0, 1.0, 0.0 ],
+					"scale_degree_probs" : [ 0, 0, 47, 1, 0, 0, 2, 0, 31, 3, 0, 15, 4, 0, 31, 5, 0, 0, 6, 0, 0, 7, 0, 47, 8, 0, 0, 9, 0, 0, 10, 0, 0, 11, 0, 0, 12, 0, 0 ],
+					"selstyle-adu" : [ 0.0 ],
+					"selstyle-adwn" : [ 0.0 ],
+					"selstyle-aud" : [ 0.0 ],
+					"selstyle-aup" : [ 0.0 ],
+					"selstyle-probs" : [ 0.0 ],
+					"selstyle-urn" : [ 1.0 ],
+					"smallest_div" : [ 6.0 ],
+					"tune_or_chrom" : [ 0.0 ],
+					"tup-den" : [ 2.0 ],
+					"tup-num" : [ 2.0 ],
+					"velocity_range" : [ 68, 82 ]
+				}
+			}
+		}
+	}
+}
